@@ -1,8 +1,11 @@
 {
-  "name": "@nadun-cs/learn-gh-package",
+  "name": "@nadunc-cs/learn-gh-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "publishConfig": {
+   "@nadunc-cs:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
