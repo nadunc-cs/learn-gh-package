@@ -7,7 +7,7 @@
    "@nadunc-cs:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
-    "test": "exit 1"
+    "test": "exit 0"
   },
   "repository": {
     "type": "git",
